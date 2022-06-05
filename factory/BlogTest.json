@@ -1,0 +1,9 @@
+{
+	"name": "BlogTest",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f77a8466-57eb-4e52-9a50-e06d22f96e49",
+		"tenantId": "213bbe04-fc90-4f18-98f2-2bf137cf7f2b"
+	}
+}
